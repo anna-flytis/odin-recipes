@@ -1,2 +1,2 @@
 # odin-recipes
-HTML, CSS practice
+HTML practice. Created HTML pages for recipes and added some links and images.
